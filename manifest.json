@@ -1,0 +1,26 @@
+
+   
+ {
+  "short_name": "ARABELA",
+  "name": "CATALOGOS ARABELA",
+  "icons": [
+  {
+      "src": "https://i.ibb.co/f4Gw7qp/android-chrome-192x192-1.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+	 {
+      "src": "https://i.ibb.co/6N9gt6t/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#00060a",
+  "theme_color": "#00060a"
+}
+   
+      
+      
