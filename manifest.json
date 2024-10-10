@@ -1,15 +1,13 @@
-
-   
- {
+{
   "short_name": "TS",
   "name": "TELESECUNDARIA DOCENTES",
   "icons": [
-  {
+    {
       "src": "https://i.ibb.co/2Y875Fw/TSDOCENTES128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
-	 {
+    {
       "src": "https://i.ibb.co/tszQGmb/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
@@ -18,9 +16,6 @@
   "start_url": "index.html",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#00060a",
-  "theme_color": "#00060a"
+  "background_color": "#FFFFFF",  // Cambié a blanco para mayor contraste
+  "theme_color": "#000060"        // Un color azul más oscuro para mejor visibilidad
 }
-   
-      
-      
