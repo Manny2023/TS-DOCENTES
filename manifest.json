@@ -17,5 +17,5 @@
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#FFFFFF",  // Cambié a blanco para mayor contraste
-  "theme_color": "#000060"        // Un color azul más oscuro para mejor visibilidad
+  "theme_color": " #23cc05"        // Un color azul más oscuro para mejor visibilidad
 }
