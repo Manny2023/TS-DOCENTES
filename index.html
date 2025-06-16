@@ -38,22 +38,6 @@
       box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
       border-radius: 10px 10px 0 0;
     }
-
-    #install-button {
-      background-color: #fff;
-      color: #4CAF50;
-      border: none;
-      border-radius: 5px;
-      padding: 10px 20px;
-      margin-left: 10px;
-      cursor: pointer;
-      transition: background-color 0.3s, transform 0.3s;
-    }
-
-    #install-button:hover {
-      background-color: #f1f1f1;
-      transform: scale(1.05);
-    }
   </style>
 </head>
 
@@ -65,10 +49,9 @@
     allow="fullscreen; autoplay; encrypted-media; picture-in-picture">
   </iframe>
 
-  <!-- Banner de instalación -->
+  <!-- Banner de instalación sin botón -->
   <div id="install-banner">
     <p style="margin: 0;">¡Instala nuestra aplicación para una mejor experiencia!</p>
-    <button id="install-button">Instalar</button>
   </div>
 
   <script src="main.js"></script>
@@ -100,16 +83,13 @@
       const installBanner = document.getElementById('install-banner');
       installBanner.style.display = 'block';
 
-      const installButton = document.getElementById('install-button');
-      installButton.addEventListener('click', () => {
+      installBanner.addEventListener('click', () => {
         installBanner.style.display = 'none';
         deferredPrompt.prompt();
         deferredPrompt.userChoice.then((choiceResult) => {
-          if (choiceResult.outcome === 'accepted') {
-            console.log('Usuario aceptó la instalación');
-          } else {
-            console.log('Usuario rechazó la instalación');
-          }
+          console.log(choiceResult.outcome === 'accepted'
+            ? 'Usuario aceptó la instalación'
+            : 'Usuario rechazó la instalación');
           deferredPrompt = null;
         });
       });
