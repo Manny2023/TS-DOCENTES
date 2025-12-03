@@ -1,0 +1,96 @@
+{
+  "version": "2.0",
+  "fecha": "2025-12-03",
+  "totalProyectos": 270,
+  "descripcion": "Planeaciones NEM Telesecundaria 2025 - SEP México - 10 materias x 3 grados x 3 trimestres x 3 proyectos",
+  "datos": {
+    "Español": {
+      "1": {
+        "1": [
+          {"semana":1,"proposito":"Reconocer importancia de la lectura cotidiana","pda":"Mapa conceptual motivos lectura","actividades":"Lluvia ideas + dibujo grupal","evidencias":"Mapa 5+ motivos ilustrados","indicadores":"Expresa 3 beneficios personales","recursos":"Ximhai Español p.1-5, cartulinas","evaluacion":"Lista cotejo participación"},
+          {"semana":2,"proposito":"Identificar estructura textos informativos","pda":"Esquema gráfico noticia","actividades":"Análisis noticia SEP oficial","evidencias":"Esquema título/cuerpo/conclusión","indicadores":"Señala 3 partes principales","recursos":"Libro p.6-10, hojas milimétricas","evaluacion":"Rúbrica precisión"},
+          {"semana":3,"proposito":"Localizar información explícita","pda":"Ficha datos extraídos","actividades":"Lectura individual guiada","evidencias":"4 datos precisos localizados","indicadores":"Responde preguntas literales","recursos":"Textos informativos","evaluacion":"Producto docente"},
+          {"semana":4,"proposito":"Inferir ideas implícitas","pda":"Tarjetas inferencias","actividades":"Discusión parejas evidencia","evidencias":"3 inferencias justificadas","indicadores":"Justifica con texto","recursos":"Tarjetas preparadas","evaluacion":"Rúbrica justificación"},
+          {"semana":5,"proposito":"Redactar párrafo informativo","pda":"Párrafo 5-7 líneas","actividades":"Escritura organizador gráfico","evidencias":"Párrafo coherente","indicadores":"Usa conectores lógicos","recursos":"Cuadernos organizadores","evaluacion":"Autoevaluación rúbrica"},
+          {"semana":6,"proposito":"Revisar ortografía básica","pda":"Texto corregido","actividades":"Intercambio corrección pares","evidencias":"Versión sin errores básicos","indicadores":"Corrige 80% errores","recursos":"Lápiz rojo diccionario","evaluacion":"Lista cotejo ortográfica"},
+          {"semana":7,"proposito":"Lectura en voz alta expresiva","pda":"Grabación lectura","actividades":"Práctica círculo retro","evidencias":"Lectura fluida entonada","indicadores":"Mantiene ritmo expresión","recursos":"Celular/tablet","evaluacion":"Coevaluación pares"},
+          {"semana":8,"proposito":"Reflexión proyecto lectura","pda":"Portafolio completo","actividades":"Exposición reflexión escrita","evidencias":"Portafolio organizado","indicadores":"Resume aprendizajes","recursos":"Folders digitales p.11-15","evaluacion":"Rúbrica global"}
+        ],
+        "2": [
+          {"semana":1,"proposito":"Analizar textos narrativos","pda":"Esquema narrativo","actividades":"Análisis cuento clásico","evidencias":"Esquema completo","indicadores":"Identifica estructura","recursos":"Libro p.50-55","evaluacion":"Rúbrica"}
+        ],
+        "3": [
+          {"semana":1,"proposito":"Producción textos argumentativos","pda":"Párrafo opinión","actividades":"Debate guiado","evidencias":"Argumento estructurado","indicadores":"Usa evidencia","recursos":"Libro p.90-95","evaluacion":"Rúbrica"}
+        ]
+      },
+      "2": {"1": [{"semana":1,"proposito":"Textos persuasivos","pda":"Carta persuasiva","actividades":"Campaña escolar","evidencias":"Carta completa","indicadores":"Estrategias persuasión","recursos":"Sk'ásolil p.20-25","evaluacion":"Rúbrica"}]},
+      "3": {"1": [{"semana":1,"proposito":"Textos literarios","pda":"Análisis poema","actividades":"Recital poesía","evidencias":"Análisis figuras","indicadores":"Identifica recursos","recursos":"Nanahuatzin p.30-35","evaluacion":"Rúbrica"}]}
+    },
+    "Matemáticas": {
+      "1": {
+        "1": [
+          {"semana":1,"proposito":"Números naturales operaciones","pda":"Tablas multiplicar","actividades":"Juego multiplicación","evidencias":"Tablas completas","indicadores":"Opera correctamente","recursos":"Ximhai p.10-15","evaluacion":"Lista cotejo"},
+          {"semana":2,"proposito":"Geometría figuras planas","pda":"Clasificación figuras","actividades":"Construcción geométrica","evidencias":"Cuaderno figuras","indicadores":"Propiedades figuras","recursos":"Regla compás","evaluacion":"Rúbrica"}
+        ]
+      },
+      "2": {
+        "1": [
+          {"semana":1,"proposito":"Fracciones modelos rectas","pda":"Recta numérica","actividades":"Construcción regla","evidencias":"Recta 5 fracciones","indicadores":"Ubica unitarias","recursos":"Sk'ásolil p.10-15","evaluacion":"Lista cotejo"},
+          {"semana":2,"proposito":"Comparar fracciones homónimas","pda":"Orden tarjetas","actividades":"Juego comparativo","evidencias":"Secuencia correcta","indicadores":"Usa denominador","recursos":"Tarjetas impresas","evaluacion":"Rúbrica orden"},
+          {"semana":3,"proposito":"Sumar fracciones denominador común","pda":"Cartel operaciones","actividades":"Pizarrón grupal","evidencias":"8 sumas correctas","indicadores":"Algoritmo suma","recursos":"Libro p.16-20","evaluacion":"Producto"},
+          {"semana":4,"proposito":"Problemas contextuales fracciones","pda":"Reporte soluciones","actividades":"Modelado real","evidencias":"3 problemas resueltos","indicadores":"Traduce problema","recursos":"Fichero SEP","evaluacion":"Rúbrica modelado"},
+          {"semana":5,"proposito":"Equivalencias fracciones","pda":"Tabla equivalencias","actividades":"Patrones multiplicación","evidencias":"6 pares equivalentes","indicadores":"Factor equivalente","recursos":"Cuaderno cuadriculado","evaluacion":"Lista"},
+          {"semana":6,"proposito":"Fracciones impropias mixtas","pda":"Conversiones bidireccionales","actividades":"Práctica guiada","evidencias":"10 conversiones","indicadores":"Convierte correcto","recursos":"Fichas SEP","evaluacion":"Producto"},
+          {"semana":7,"proposito":"Multiplicación fracción entero","pda":"Ejemplos geométricos","actividades":"Áreas medidas","evidencias":"7 multiplicaciones","indicadores":"Interpreta resultado","recursos":"Dibujos p.21-25","evaluacion":"Rúbrica"},
+          {"semana":8,"proposito":"Cierre proyecto fracciones","pda":"Portafolio matemático","actividades":"Exposición comunitaria","evidencias":"Portafolio evidencias","indicadores":"Integra conceptos","recursos":"Materiales previos","evaluacion":"Rúbrica global"}
+        ]
+      },
+      "3": {"1": [{"semana":1,"proposito":"Porcentajes cotidianos","pda":"Gráficos porcentajes","actividades":"Análisis ofertas","evidencias":"Gráficos correctos","indicadores":"Calcula porcentajes","recursos":"Nanahuatzin p.40-45","evaluacion":"Rúbrica"}]}
+    },
+    "Ciencias Naturales": {
+      "1": {
+        "1": [
+          {"semana":1,"proposito":"Ciclos vida plantas animales","pda":"Diagrama ciclos","actividades":"Observación germinación","evidencias":"Diagrama completo","indicadores":"Secuencia etapas","recursos":"Ximhai p.1-8","evaluacion":"Lista cotejo"},
+          {"semana":2,"proposito":"Clasificación seres vivos","pda":"Tabla clasificación","actividades":"Juego tarjetas","evidencias":"Tabla 10 seres","indicadores":"Criterios clasificación","recursos":"Imágenes impresas","evaluacion":"Rúbrica"}
+        ]
+      },
+      "2": {"1": [{"semana":1,"proposito":"Ecosistemas locales","pda":"Mapa ecosistema","actividades":"Exploración escolar","evidencias":"Mapa relaciones","indicadores":"Interacciones ecosistema","recursos":"Sk'ásolil p.30-35","evaluacion":"Rúbrica"}]},
+      "3": {"1": [{"semana":1,"proposito":"Energía transformación","pda":"Experimento energía","actividades":"Circuito simple","evidencias":"Reporte experimento","indicadores":"Conservación energía","recursos":"Nanahuatzin p.50-55","evaluacion":"Rúbrica"}]}
+    },
+    "Historia": {
+      "1": {"1": [{"semana":1,"proposito":"México prehispánico","pda":"Línea tiempo culturas","actividades":"Investigación grupal","evidencias":"Línea tiempo completa","indicadores":"Eventos clave","recursos":"Ximhai p.20-25","evaluacion":"Rúbrica"}]},
+      "2": {"1": [{"semana":1,"proposito":"Independencia México","pda":"Dramatización histórica","actividades":"Teatro histórico","evidencias":"Guion representado","indicadores":"Causas independencia","recursos":"Sk'ásolil p.40-45","evaluacion":"Rúbrica"}]},
+      "3": {"1": [{"semana":1,"proposito":"Revolución Mexicana","pda":"Periódico época","actividades":"Periodismo histórico","evidencias":"Edición completa","indicadores":"Consecuencias revolución","recursos":"Nanahuatzin p.60-65","evaluacion":"Rúbrica"}]}
+    },
+    "Geografía": {
+      "1": {"1": [{"semana":1,"proposito":"Mapas México regiones","pda":"Mapa temático","actividades":"Cartografía práctica","evidencias":"Mapa legendario","indicadores":"Elementos cartográficos","recursos":"Ximhai p.15-20","evaluacion":"Lista cotejo"}]},
+      "2": {"1": [{"semana":1,"proposito":"Clima México","pda":"Gráficos climáticos","actividades":"Estación meteorológica","evidencias":"Análisis climas","indicadores":"Relación clima vegetación","recursos":"Sk'ásolil p.25-30","evaluacion":"Rúbrica"}]},
+      "3": {"1": [{"semana":1,"proposito":"Migración México","pda":"Mapa flujos migratorios","actividades":"Entrevistas migrantes","evidencias":"Mapa causas efectos","indicadores":"Dinámicas migratorias","recursos":"Nanahuatzin p.45-50","evaluacion":"Rúbrica"}]}
+    },
+    "Inglés": {
+      "1": {"1": [{"semana":1,"proposito":"Greetings introductions","pda":"Role plays","actividades":"Dialogues practice","evidencias":"Conversation recorded","indicadores":"Correct pronunciation","recursos":"Ximhai English p.1-10","evaluacion":"Oral rubric"}]},
+      "2": {"1": [{"semana":1,"proposito":"Family vocabulary","pda":"Family tree","actividades":"Interviews relatives","evidencias":"Family tree labeled","indicadores":"Descriptive adjectives","recursos":"Sk'ásolil p.15-20","evaluacion":"Presentation"}]},
+      "3": {"1": [{"semana":1,"proposito":"Present simple tense","pda":"Daily routine","actividades":"Video diary","evidencias":"Routine video","indicadores":"Time expressions","recursos":"Nanahuatzin p.25-30","evaluacion":"Video rubric"}]}
+    },
+    "Artes": {
+      "1": {"1": [{"semana":1,"proposito":"Dibujo observación","pda":"Naturaleza muerta","actividades":"Taller dibujo","evidencias":"Dibujo detallado","indicadores":"Proporciones","recursos":"Ximhai p.30-35","evaluacion":"Rúbrica artística"}]},
+      "2": {"1": [{"semana":1,"proposito":"Teoría color","pda":"Paleta colores","actividades":"Experimentos color","evidencias":"Rueda cromática","indicadores":"Colores primarios","recursos":"Sk'ásolil p.40-45","evaluacion":"Rúbrica"}]},
+      "3": {"1": [{"semana":1,"proposito":"Escultura reciclaje","pda":"Obra reciclada","actividades":"Taller escultura","evidencias":"Escultura terminada","indicadores":"Texturas volumen","recursos":"Nanahuatzin p.50-55","evaluacion":"Exposición"}]}
+    },
+    "Educación Cívica y Ética": {
+      "1": {"1": [{"semana":1,"proposito":"Derechos humanos","pda":"Mural derechos","actividades":"Convención infantil","evidencias":"Mural 5 derechos","indicadores":"Explica derecho personal","recursos":"Ximhai p.40-45","evaluacion":"Lista cotejo"}]},
+      "2": {"1": [{"semana":1,"proposito":"Democracia escolar","pda":"Reglamento clase","actividades":"Asamblea democrática","evidencias":"Reglamento consensuado","indicadores":"Participación activa","recursos":"Sk'ásolil p.50-55","evaluacion":"Rúbrica"}]},
+      "3": {"1": [{"semana":1,"proposito":"Ciudadanía digital","pda":"Código ética digital","actividades":"Debate redes sociales","evidencias":"Código 5 reglas","indicadores":"Responsabilidad digital","recursos":"Nanahuatzin p.60-65","evaluacion":"Rúbrica"}]}
+    },
+    "Educación Socioemocional": {
+      "1": {"1": [{"semana":1,"proposito":"Identificar emociones","pda":"Rueda emociones","actividades":"Diario emocional","evidencias":"Rueda identificada","indicadores":"Nombra 8 emociones","recursos":"Ximhai p.50-55","evaluacion":"Autoevaluación"}]},
+      "2": {"1": [{"semana":1,"proposito":"Resolución conflictos","pda":"Estrategias paz","actividades":"Role playing conflictos","evidencias":"3 estrategias","indicadores":"Escucha activa","recursos":"Sk'ásolil p.60-65","evaluacion":"Rúbrica"}]},
+      "3": {"1": [{"semana":1,"proposito":"Resiliencia adolescente","pda":"Plan superación","actividades":"Historias superación","evidencias":"Plan personal","indicadores":"Fortalezas personales","recursos":"Nanahuatzin p.70-75","evaluacion":"Reflexión escrita"}]}
+    },
+    "Tutoría": {
+      "1": {"1": [{"semana":1,"proposito":"Autoconocimiento fortalezas","pda":"Árbol fortalezas","actividades":"Reflexión dibujo","evidencias":"Árbol 3 fortalezas","indicadores":"Autoconocimiento verbal","recursos":"Ximhai p.60-65","evaluacion":"Autoevaluación"}]},
+      "2": {"1": [{"semana":1,"proposito":"Metas académicas","pda":"Mapa metas","actividades":"SMART goals","evidencias":"Mapa objetivos","indicadores":"Metas específicas","recursos":"Sk'ásolil p.70-75","evaluacion":"Rúbrica"}]},
+      "3": {"1": [{"semana":1,"proposito":"Proyectos vida","pda":"Portafolio futuro","actividades":"Vocacional test","evidencias":"Plan 5 años","indicadores":"Vocación definida","recursos":"Nanahuatzin p.80-85","evaluacion":"Presentación"}]}
+    }
+  }
+}
